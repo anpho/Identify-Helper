@@ -4,13 +4,17 @@
     <feature name="com.blackberry.ui.toast" value="com.blackberry.ui.toast" />
     <name>BBhelper</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        Help you buying BlackBerry devices.
     </description>
     <author email="anphorea@gmail.com" href="http://cordova.io">
         anpho
     </author>
     <content src="index.html" />
+    <icon src="img/icon.png" />
     <access origin="*" />
     <preference name="fullscreen" value="true" />
     <preference name="webviewbounce" value="true" />
+    <rim:splash src="img/splash-768x1280.png" />
+    <rim:splash src="img/splash-720x1280.png" />
+    <rim:splash src="img/splash-720x720.png" />
 </widget>
