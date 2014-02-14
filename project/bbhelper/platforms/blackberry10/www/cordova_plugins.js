@@ -13,6 +13,13 @@ module.exports = [
         "clobbers": [
             "blackberry.ui.toast"
         ]
+    },
+    {
+        "file": "plugins/com.blackberry.invoke/www/client.js",
+        "id": "com.blackberry.invoke.client",
+        "clobbers": [
+            "blackberry.invoke"
+        ]
     }
 ]
 });
