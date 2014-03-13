@@ -21,5 +21,13 @@ module.exports = [
             "blackberry.invoke"
         ]
     }
-]
+];
+module.exports.metadata = 
+// TOP OF METADATA
+{
+    "com.blackberry.app": "1.0.0",
+    "com.blackberry.ui.toast": "1.0.0",
+    "com.blackberry.invoke": "1.0.0"
+}
+// BOTTOM OF METADATA
 });

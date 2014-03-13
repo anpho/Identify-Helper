@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="bbhelper" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:rim="http://www.blackberry.com/ns/widgets">
+<widget id="bbhelper" version="0.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:rim="http://www.blackberry.com/ns/widgets">
     <feature name="com.blackberry.app" value="com.blackberry.app" />
     <feature name="com.blackberry.invoke" value="com.blackberry.invoke" />
     <feature name="com.blackberry.ui.toast" value="com.blackberry.ui.toast" />
     <name>Identify Helper</name>
+    <name xml:lang="zh-CN">黑莓鉴别助手</name>
     <description>
         Help you buying BlackBerry devices.
     </description>
